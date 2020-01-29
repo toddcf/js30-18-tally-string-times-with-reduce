@@ -1,1 +1,1 @@
-# js30-18-tally-string-times-with-reduce
+# JavaScript 30 #18: Tally String Times with Reduce
